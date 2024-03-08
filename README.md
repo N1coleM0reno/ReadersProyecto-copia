@@ -13,4 +13,4 @@ La página web incluye funcionalidades de inicio de sesión utilizando Firebase 
 - Cree un proyecto en Firebase y configure Firebase Authentication.
 - Copie las credenciales de Firebase y péguelas en el archivo de configuración del proyecto.
 
-## Clonar Repositorio:
+2.- Clonar Repositorio:
