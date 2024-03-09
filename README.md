@@ -14,8 +14,11 @@ La página web incluye funcionalidades de inicio de sesión utilizando Firebase 
 - Copie las credenciales de Firebase y péguelas en el archivo de configuración del proyecto.
 
 2.- Clonar Repositorio:
-- git clone https://github.com/tu_usuario/tu_proyecto.git
+- git clone (https://github.com/N1coleM0reno/ReadersProyecto-copia)
   
 3.- Configuración del Proyecto:
 - Modifique el archivo de configuración para agregar las credenciales de Firebase.
 - Personalice el diseño y la funcionalidad según sus necesidades.
+
+## Contribución
+- ¡Las contribuciones son bienvenidas! Si desea contribuir a este proyecto, por favor abra un problema o envíe una solicitud de extracción.
